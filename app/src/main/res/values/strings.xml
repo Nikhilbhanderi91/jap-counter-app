@@ -1,3 +1,56 @@
 <resources>
-    <string name="app_name">jap-counter-app</string>
+    <string name="app_name">Jap Counter</string>
+    <string name="welcome_title">Jap Counter</string>
+    <string name="enter_name_prompt">Enter your name</string>
+    <string name="btn_continue">Continue</string>
+    <string name="hello_user">Hello, %1$s</string>
+    <string name="setup_title">Counter Setup</string>
+    <string name="mantra_name_label">Name / Mantra / Affirmation</string>
+    <string name="mantra_name_hint">e.g., Daily Chanting, Affirmation, Meditation</string>
+    <string name="select_limit_label">Select Target Limit</string>
+    <string name="limit_108">108</string>
+    <string name="limit_1008">1008</string>
+    <string name="limit_custom">Custom</string>
+    <string name="custom_limit_label">Enter custom target count</string>
+    <string name="btn_start_jap">Start Counting</string>
+    <string name="btn_tap">TAP</string>
+    <string name="jap_complete_title">Session Complete</string>
+    <string name="jap_complete_msg">Your counting session is complete.</string>
+    <string name="btn_start_again">Start Again</string>
+    <string name="btn_back_setup">Back to Setup</string>
+    <string name="err_empty_name">Please enter your name</string>
+    <string name="err_empty_mantra">Please enter a name or affirmation</string>
+    <string name="err_invalid_target">Please enter a target count greater than 0</string>
+
+    <!-- History Screen Strings -->
+    <string name="history_title">Counter History</string>
+    <string name="btn_view_history">View History</string>
+    <string name="completed_status">Completed</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="btn_clear_all">Clear All History</string>
+    <string name="dialog_delete_title">Delete History Record?</string>
+    <string name="dialog_delete_msg">Are you sure you want to delete this recorded session?</string>
+    <string name="dialog_clear_title">Clear All History?</string>
+    <string name="dialog_clear_msg">This will permanently delete all recorded counting sessions.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_clear">Clear</string>
+    <string name="no_history">No history records found</string>
+
+    <!-- Navigation Strings -->
+    <string name="nav_setup">Setup</string>
+    <string name="nav_counter">Counter</string>
+    <string name="nav_history">History</string>
+
+    <!-- Counter Screen Dialog Strings -->
+    <string name="dialog_reset_title">Reset Current Count?</string>
+    <string name="dialog_reset_msg">This will reset your current counting count to 0 for this session.</string>
+    <string name="btn_reset">Reset</string>
+    <string name="edit_session_title">Session Settings</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Splash Screen Strings -->
+    <string name="splash_tagline">Sacred Chanting &amp; Mindful Meditation</string>
+    <string name="splash_devotion">Chant with devotion • Count with peace</string>
 </resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">જાપ કાઉન્ટર</string>
+    <string name="welcome_title">જાપ કાઉન્ટર</string>
+    <string name="enter_name_prompt">તમારું નામ લખો</string>
+    <string name="btn_continue">આગળ વધો</string>
+    <string name="hello_user">નમસ્તે, %1$s</string>
+    <string name="setup_title">જાપ સેટઅપ</string>
+    <string name="mantra_name_label">જાપ / મંત્રનું નામ</string>
+    <string name="mantra_name_hint">ઉદા. ઓમ નમઃ શિવાય, શ્રી રામ</string>
+    <string name="select_limit_label">જાપ મર્યાદા પસંદ કરો</string>
+    <string name="limit_108">૧૦૮</string>
+    <string name="limit_1008">૧૦૦૮</string>
+    <string name="limit_custom">કસ્ટમ</string>
+    <string name="custom_limit_label">જાપ મર્યાદા દાખલ કરો</string>
+    <string name="btn_start_jap">જાપ શરૂ કરો</string>
+    <string name="btn_tap">ટેપ કરો</string>
+    <string name="jap_complete_title">જાપ પૂર્ણ</string>
+    <string name="jap_complete_msg">તમારો જાપ પૂર્ણ થયો છે.</string>
+    <string name="btn_start_again">ફરીથી શરૂ કરો</string>
+    <string name="btn_back_setup">સેટઅપ પર જાઓ</string>
+    <string name="err_empty_name">કૃપા કરીને તમારું નામ દાખલ કરો</string>
+    <string name="err_empty_mantra">કૃપા કરીને મંત્રનું નામ દાખલ કરો</string>
+    <string name="err_invalid_target">કૃપા કરીને યોગ્ય મર્યાદા દાખલ કરો</string>
+
+    <!-- History Screen Strings -->
+    <string name="history_title">જાપ ઇતિહાસ</string>
+    <string name="btn_view_history">ઇતિહાસ જુઓ</string>
+    <string name="completed_status">પૂર્ણ</string>
+    <string name="today">આજે</string>
+    <string name="yesterday">ગઈકાલે</string>
+    <string name="btn_clear_all">બધો ઇતિહાસ સાફ કરો</string>
+    <string name="dialog_delete_title">જાપ રેકોર્ડ ડિલીટ કરવો છે?</string>
+    <string name="dialog_delete_msg">શું તમે ખરેખર આ પૂર્ણ થયેલ જાપ રેકોર્ડને ડિલીટ કરવા માંગો છો?</string>
+    <string name="dialog_clear_title">બધો ઇતિહાસ સાફ કરવો છે?</string>
+    <string name="dialog_clear_msg">આનાથી બધા પૂર્ણ થયેલ જાપ રેકોર્ડ કાયમ માટે ડિલીટ થઈ જશે.</string>
+    <string name="btn_cancel">રદ કરો</string>
+    <string name="btn_delete">ડિલીટ કરો</string>
+    <string name="btn_clear">સાફ કરો</string>
+    <string name="no_history">કોઈ ઇતિહાસ મળ્યો નથી</string>
+
+    <!-- Navigation Strings -->
+    <string name="nav_setup">સેટઅપ</string>
+    <string name="nav_counter">કાઉન્ટર</string>
+    <string name="nav_history">ઇતિહાસ</string>
+
+    <!-- Counter Screen Dialog Strings -->
+    <string name="dialog_reset_title">કાઉન્ટ ફરીથી શરૂ કરવો છે?</string>
+    <string name="dialog_reset_msg">આનાથી તમારો વર્તમાન જાપ કાઉન્ટ ૦ થઈ જશે.</string>
+    <string name="btn_reset">રીસેટ</string>
+    <string name="edit_session_title">જાપ સેટિંગ્સ બદલો</string>
+    <string name="btn_save">સાચવો</string>
+</resources>

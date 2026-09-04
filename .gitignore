@@ -11,5 +11,11 @@
 /build
 /captures
 .externalNativeBuild
-.cxx
 local.properties
+keystore.properties
+*.jks
+*.keystore
+.idea/
+.kotlin/
+2ff73480-d8cb-4470-87bf-5020f06e1411.png
+stitch_jap_counter_ui_design/
